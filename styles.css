@@ -78,6 +78,20 @@ letter-spacing: 1.5px;
   width: 325px;
   float: right;
 }
+#main5{
+  background-color: #F67A41;
+  color: 	#FFFF;
+  position: relative;
+  margin: 0 -9999rem;
+  padding: .25rem 9999rem;
+  text-align: center;
+  padding-bottom: 50px;
+}
+#main5 img{
+  height: 450px;
+  width: 525px;
+  float: right;
+}
 img{
   padding: 5px 5px 5px 5px;
 }
